@@ -22,3 +22,5 @@ To start the test go to scr/test/java/Test and click on green triangle.
 pom.xml => maven => add project. 
 
 - You don't need to download any of the web drivers, since we use bonigarcia libraries. 
+
+# fetchRewards
